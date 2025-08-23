@@ -1,4 +1,4 @@
-**Twitter Undo Retweet Bot**
+# **Twitter Undo Retweet Bot**
 
 A Python automation bot that automatically logs into Twitter (X) and undoes your retweets using Selenium.
 This bot is helpful if you want to bulk-remove retweets from your timeline without doing it manually.
