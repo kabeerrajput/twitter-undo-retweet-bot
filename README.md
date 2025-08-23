@@ -5,12 +5,12 @@ This bot is helpful if you want to bulk-remove retweets from your timeline witho
 
 ⚡ **Features**
 
-Automates Twitter login via Selenium
-Navigates to your profile
-Detects all retweets in your timeline
-Clicks Undo Retweet one by one until none remain
-Scrolls automatically to load more retweets
-Handles loading spinners and delays gracefully
+Automates Twitter login via Selenium<br>
+Navigates to your profile<br>
+Detects all retweets in your timeline<br>
+Clicks Undo Retweet one by one until none remain<br>
+Scrolls automatically to load more retweets<br>
+Handles loading spinners and delays gracefully<br>
 
 🛠️ **Requirements**
 
