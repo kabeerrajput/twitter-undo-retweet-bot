@@ -29,6 +29,8 @@ Download ChromeDriver
 Run the bot with
 python main.py
 
+3: Install required dependencies:
+pip install -r requirements.txt
 
 **The bot will**:
 
