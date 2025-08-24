@@ -21,7 +21,7 @@ ChromeDriver (must match your Chrome version)
 ⚙️ **Setup**
 
 1: Clone the repository:
-git clone https://github.com/kabeerrajput/Twitter_Undo_Retweet_Bot.git
+git clone https://github.com/kabeerrajput/twitter-undo-retweet-bot.git
 cd Twitter_Undo_Retweet_Bot
 
 2: Make sure ChromeDriver is installed and in your PATH.
